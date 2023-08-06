@@ -1,8 +1,11 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "프론트엔드 개발자 최유경입니다 🏝️"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+skill
+- React.js
+- React Native
+- Next.js
