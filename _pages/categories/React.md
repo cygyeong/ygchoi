@@ -1,9 +1,9 @@
 ---
-title: "Algorithm"
+title: "React"
 layout: category
-permalink: /categories/Algorithm/
+permalink: /categories/React/
 author_profile: true
-taxonomy: Algorithm
+taxonomy: React
 sidebar:
   nav: "categories"
 ---
