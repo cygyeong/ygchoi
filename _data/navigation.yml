@@ -26,8 +26,6 @@ categories:
         url: /categories/baek/
       - title: "프로그래머스"
         url: /categories/programmers/
-
-
   - title: "React"
     url: /categories/React/
   - title: "React Native"
@@ -36,3 +34,5 @@ categories:
     url: /categories/JavaScript/
   - title: "DID"
     url: /categories/DID/
+
+
