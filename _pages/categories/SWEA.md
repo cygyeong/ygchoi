@@ -1,9 +1,9 @@
 ---
-title: "Algorithm"
+title: "SWEA"
 layout: category
-permalink: /categories/Algorithm/
+permalink: /categories/SWEA/
 author_profile: true
-taxonomy: Algorithm
+taxonomy: SWEA
 sidebar:
   nav: "categories"
 ---
