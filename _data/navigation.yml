@@ -22,12 +22,10 @@ categories:
     children:
       - title: "SWEA"
         url: /categories/SWEA/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
+      - title: "baek"
+        url: /categories/baek/
+      - title: "programmers"
+        url: /categories/programmers/
 
   - title: "React"
     url: /categories/React/
