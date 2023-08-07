@@ -18,12 +18,14 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "SWEA"
+- title: "Title1"
+    children: "Algorithm"
+    - title: "SWEA"
     url: /categories/SWEA/
-  - title: "백준"
-    url: /categories/baek/
-  - title: "프로그래머스"
-    url: /categories/programmers/
+    - title: "백준"
+      url: /categories/baek/
+    - title: "프로그래머스"
+      url: /categories/programmers/
   - title: "React"
     url: /categories/React/
   - title: "React Native"
