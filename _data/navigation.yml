@@ -18,8 +18,8 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-- title: "Title1"
-    children: "Algorithm"
+- title: "Algorithm"
+    children: 
     - title: "SWEA"
     url: /categories/SWEA/
     - title: "백준"
