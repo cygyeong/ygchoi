@@ -7,7 +7,7 @@ categories:
 tags:
   - [SWEA, D2]
 
-permalink: /SWEA/post-name-here/
+permalink: /SWEA/1859/
 
 toc: true
 toc_sticky: true
@@ -30,7 +30,7 @@ last_modified_at: 2023-08-08
 예를 들어 3일 동안의 매매가가 1, 2, 3 이라면 처음 두 날에 원료를 구매하여 마지막 날에 팔면 3의 이익을 얻을 수 있다
 
 ## 🐿️ 풀이
-```
+```python
 T = int(input())
 for tc in range(1, T+1):
     N = int(input())
