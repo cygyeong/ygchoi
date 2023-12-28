@@ -27,11 +27,16 @@ categories:
       - title: "programmers"
         url: /categories/programmers/
 
-  - title: "React"
-    url: /categories/React/
-  - title: "ReactNative"
-    url: /categories/ReactNative/
-  - title: "DID"
-    url: /categories/DID/
-  - title: "JavaScript"
-    url: /categories/JavaScript/
+  - title: "Web"
+    children:
+    - title: "React"
+      url: /categories/React/
+  - title: "App"
+    children:
+    - title : "React Native"
+      url: /categories/ReactNative/
+
+  - title: "programming language"
+    children:
+    - title : "JavaScript"
+      url: /categories/JavaScript/
