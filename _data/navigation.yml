@@ -33,7 +33,7 @@ categories:
       url: /categories/React/
   - title: "App"
     children:
-    - title : "React Native"
+    - title : "ReactNative"
       url: /categories/ReactNative/
 
   - title: "programming language"
